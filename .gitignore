@@ -1,0 +1,2 @@
+# Preserve nested repository metadata locally without publishing it.
+task3/.git-nested-backup/
